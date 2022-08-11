@@ -5,4 +5,4 @@
 
 1. ImageNet1k数据集, MicroNet-M3 top1-acc 62.5%； 
 
-2.复现后合入PaddleClas套件，并添加TIPC
+2. 复现后合入PaddleClas套件，并添加TIPC
